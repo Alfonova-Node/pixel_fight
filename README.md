@@ -1,6 +1,6 @@
 # PixelTap Bot by S1NJED
 
-![sample](images/screen.png)
+
 
 ✅ Auto claim rewards<br>
 ✅ Auto fight<br>
@@ -73,4 +73,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you want to support me:
 
-**`$USDT`** (ERC20 or BEP20) `0x0A9072E3C4Fae8e239Db12B3287eF88A3e9Da5A2`
+**`$USDT`** (ERC20 or BEP20) `0x850Be5564003F2247111129F045d7Ff4139bB8AD`
